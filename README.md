@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Demo
 
-![Load Testing](https://github.com/emmanuelraj7/mlopscommunity_meetup/blob/main/images/load_test.png)
+![Load Testing](https://github.com/emmanuelraj7/loadtesting-microservices.git/blob/main/images/load_test.png)
 
 
 
@@ -19,7 +19,7 @@ Major frameworks used to build the project:
 * [Locust](https://locust.io/)
 
 
-![FASTAPI](https://github.com/emmanuelraj7/mlopscommunity_meetup/blob/main/images/fast_api_service.png)
+![FASTAPI](https://github.com/emmanuelraj7/loadtesting-microservices.git/blob/main/images/fast_api_service.png)
 
 
 <!-- GETTING STARTED -->
@@ -29,7 +29,7 @@ These are instructions to install and get the services up and running.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/emmanuelraj7/loadtesting-microservices.git
    ```
 2. Install Locust.io
    ```sh
@@ -63,6 +63,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Emmanuel Raj - [Linkedin](https://www.linkedin.com/in/emmanuelraj7/) 
 
-Project Link: [https://github.com/emmanuelraj7/mlopscommunity_meetup](https://github.com/emmanuelraj7/mlopscommunity_meetup)
+Project Link: [https://github.com/emmanuelraj7/loadtesting-microservices](https://github.com/emmanuelraj7/loadtesting-microservices)
 
 Engineering MLOps (book): [Amazon](https://www.amazon.com/Engineering-MLOps-Rapidly-production-ready-learning/dp/1800562888)
