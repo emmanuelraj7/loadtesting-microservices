@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Demo
 
-![Load Testing](https://github.com/emmanuelraj7/loadtesting-microservices.git/blob/main/images/load_test.png)
+![Load Testing](https://github.com/emmanuelraj7/loadtesting-microservices/blob/master/images/load_test.png)
 
 
 
@@ -19,7 +19,7 @@ Major frameworks used to build the project:
 * [Locust](https://locust.io/)
 
 
-![FASTAPI](https://github.com/emmanuelraj7/loadtesting-microservices.git/blob/main/images/fast_api_service.png)
+![FASTAPI](https://github.com/emmanuelraj7/loadtesting-microservices/blob/master/images/fast_api_service.png)
 
 
 <!-- GETTING STARTED -->
